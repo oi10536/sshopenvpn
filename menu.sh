@@ -13,5 +13,5 @@ echo -e "|${color3} 8${color4}|  : ทดสอบความเร็วอิ
 echo -e "|${color3} 9${color4}|  : แสดงข้อมูลระบบ"
 echo -e "|${color3} 10${color4}| : ข้อมูบ script auto install"
 echo -e "* exit                  : ออกจากการใช้งาน"
-echo -e "--------- สนับสนุน วอลเลต 094-625-5482 ---------"
-echo -e "              BY MMT-VPN"
+echo -e "--------------------------------------------------"
+echo -e "              BY TONZA-VPN"

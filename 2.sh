@@ -1,6 +1,6 @@
 #!/bin/bash
 #Script auto create trial user SSH
-#By MMT-VPN Maze Master
+#By TONZA-VPN
 
 
 IP=`dig +short myip.opendns.com @resolver1.opendns.com`
@@ -21,5 +21,5 @@ echo -e "Config OpenVPN (TCP 1194): http://$IP:81/client.ovpn"
 echo -e "Username: $Login"
 echo -e "Password: $Pass\n"
 echo -e "========================="
-echo -e "Made By Maze Master"
+echo -e "Made By TONZA-VPN"
 echo -e ""

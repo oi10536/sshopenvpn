@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script restart service dropbear, webmin, squid3, openvpn, openssh
-# By MMT-VPN,Maze Master
+# By TONZA-VPN
 service dropbear restart
 service webmin restart
 service squid3 restart

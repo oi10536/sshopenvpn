@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# By MMT-VPN , Maze Master
+# By  TONZA-VPN
 # ==========================
 # 
 
@@ -49,6 +49,6 @@ echo "------------------------------------------------"
 
 echo "";
 
-echo "Made By Maze Master";
+echo "Made By TONZA-VPN";
 
 echo "";

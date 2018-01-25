@@ -15,5 +15,5 @@ JUMLAH="$(awk -F: '$3 >= 1000 && $1 != "nobody" {print $1}' /etc/passwd | wc -l)
 echo "-------------------------------"
 echo "Jumlah akun: $JUMLAH user"
 echo "-------------------------------"
-echo -e "Made By Maze Master"
+echo -e "Made By TONZA-VPN"
 echo -e ""
